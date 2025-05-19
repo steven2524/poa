@@ -1,5 +1,5 @@
 network: custom
-chain_id: 12345
+chain_id: 2524
 execution_clients:
   - geth
 consensus_clients:
