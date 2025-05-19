@@ -1,0 +1,8 @@
+network: custom
+chain_id: 12345
+execution_clients:
+  - geth
+consensus_clients:
+  - lighthouse
+validator_count: 4
+genesis_file: genesis.json
