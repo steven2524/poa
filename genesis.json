@@ -1,7 +1,7 @@
 {
   "config": {
     "chainId": 2025,
-    "terminalTotalDifficulty": "0x1",  // Merge 조건 조기 도달
+    "terminalTotalDifficulty": "0x1",
     "ethash": {},
     "transitionConfiguration": {
       "terminalTotalDifficultyPassed": true
