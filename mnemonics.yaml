@@ -1,4 +1,4 @@
 mnemonics:
-  - name: "testnet-wallet"
-    mnemonic: "abandon abandon abandon ..."
-    count: 8
+  - name: "test-wallet"
+    mnemonic: "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
+    count: 3
